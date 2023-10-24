@@ -10,4 +10,4 @@ LISTA TASKS
 
 4. Creazione classe PrenotazioneServiceImpl che implementa i 3 metodi (Fatto)
 
-5. FARE TESTS -> Ho dato in pasto un tavolo e l'algoritmo di prenotazione sembra funzionare
+5. FARE TESTS ->Nel main ho dato in pasto un tavolo e l'algoritmo di prenotazione sembra funzionare correttamente
